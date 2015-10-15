@@ -11,8 +11,6 @@ module.exports = function(jQuery,underscore) {
   require("meteor-html-tools")(Meteor);
   require("meteor-reactive-var")(Meteor);
   require("meteor-reactive-object-map")(Meteor);
-  require("meteor-blaze")(Meteor,jQuery);
-  require("meteor-blaze-tools")(Meteor);
   require("meteor-templating")(Meteor);
   require("meteor-spacebars")(Meteor);
   require("meteor-spacebars-compiler")(Meteor);

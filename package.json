@@ -1,25 +1,23 @@
 {
-  "name": "meteor-client",
-  "version": "1.4.0",
-  "description": "Meteor client libraries",
+  "name": "deanius-meteor-client",
+  "version": "1.1.0",
+  "description": "Meteor client libraries from Meteor 1.1",
   "main": "meteor-client.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Soon: tests\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git@github.com:eface2face/meteor-client.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/eface2face/meteor-client/issues"
+    "url": "https://github.com/deanius/meteor-client/issues"
   },
-  "homepage": "https://github.com/eface2face/meteor-client",
+  "homepage": "https://github.com/deanius/meteor-client",
   "dependencies": {
     "meteor-base64": "^1.2.0",
-    "meteor-blaze": "^1.2.0",
-    "meteor-blaze-tools": "^1.2.0",
     "meteor-core": "^1.2.0",
     "meteor-ejson-safe": "^1.2.0",
     "meteor-html-tools": "^1.2.0",
