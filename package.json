@@ -1,6 +1,6 @@
 {
   "name": "deanius-meteor-client",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Select Meteor client libraries from Meteor 1.1",
   "main": "meteor-client.js",
   "scripts": {
@@ -19,7 +19,7 @@
   "dependencies": {
     "meteor-base64": "^1.2.0",
     "meteor-core": "^1.2.0",
-    "meteor-ejson-safe": "^1.2.0",
+    "deanius-meteor-ejson": "^1.1.0",
     "meteor-id-map": "^1.2.0",
     "meteor-observe-sequence": "^1.2.0",
     "meteor-ordered-dict": "^1.2.0",
